@@ -1,0 +1,61 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f5eb82;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Langar&family=Lobster&display=swap");
+
+.textpart {
+  padding: 10%;
+  background-color: #ffd717;
+  color: #282c34;
+
+  font-size: xx-large;
+  text-align: center;
+  /* font-family: "Lobster", cursive; */
+  font-family: monospace;
+}
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+
+  text-align: center;
+}
+.header {
+  padding: 2%;
+  background-color: #ffd717;
+  color: #282c34;
+  font-size: 100px;
+  font-weight: lighter;
+}
+.headthr {
+  /* padding: 2rem;
+  font-size: x-large;
+  background-color: #ffd717; */
+
+  padding: 5%;
+  background-color: #ffd717;
+  color: #282c34;
+  font-size: x-large;
+}
+.footer {
+  background-color: #ffd717;
+  color: #282c34;
+  text-decoration: none;
+  text-align: center;
+  padding: 0.5%;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.linkfoot {
+  text-decoration: none;
+
+  color: #282c34;
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+}
